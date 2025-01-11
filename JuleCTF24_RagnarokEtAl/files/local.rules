@@ -1,0 +1,1 @@
+drop tcp any any -> any any (msg:"There is nothing suspicious here."; content:"FDCA{"; sid:0001)

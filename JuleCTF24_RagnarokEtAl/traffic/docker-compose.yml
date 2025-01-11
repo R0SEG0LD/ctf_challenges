@@ -1,0 +1,67 @@
+#version: '3'
+services:
+  mimisbrynn:
+    image: 0x4d4c/inetsim
+    #networks:
+      #- jaettenet
+      #- host
+    ports: 
+      - 127.1.0.53:53:53/udp
+      - 127.1.0.80:80:80
+      - 127.1.4.43:443:443
+      - 127.1.0.123:123:123
+      - 127.1.5.14:514:514/udp
+      - 127.1.5.14:514:514
+      - 127.1.0.21:21:21
+      - 127.1.66.67:6667:6667
+    volumes:
+      - ./user_config:/opt/inetsim/conf/user_configs:ro
+      - ./data:/opt/inetsim/data:rw
+      - ./log:/opt/inetsim/log:rw
+    environment:
+      - INETSIM_START_SERVICES=http,dns,ftp,ntp,irc,syslog,https
+      - INETSIM_CREATE_REPORTS=no
+      - INETSIM_FAKETIME_INIT_DELTA=0
+      # DNS
+      - INETSIM_DNS_DEFAULT_IP=6.5.4.3
+      - INETSIM_DNS_VERSION=Yggdrasil's infinitely reaching branches.
+      # HTTP
+      - INETSIM_HTTP_VERSION=Dip Into Time
+      # FTP
+      - INETSIM_FTP_VERSION=The Truth is in the details - fXR1T190aGdpUl90YWhUX2RlVFJPTlNfdW9Ze0FDREY= - You probably wanna look at this.
+      - INETSIM_FTP_BANNER=River from the End of time
+      # NTP
+      # IRC
+      # Syslog
+      # vimur:
+      #   build: .
+      #   container_name: river_of_time
+      #   networks:
+      #     - jaettenet
+      #     #- bridge
+      #   tty: true
+      # dns_server:
+      #   image: andyshinn/dnsmasq
+      #   ports:
+      #     - 127.0.2.53:53:53/udp
+      #     - 127.0.2.53:53:53
+      #   volumes:
+      #     - ./dnsmasq.conf:/etc/dnsmasq.conf:ro
+
+
+networks:
+  jaettenet:
+    enable_ipv6: true
+    internal: true
+    ipam:
+      driver: default
+      config:
+        - subnet: 0:42::/64
+          gateway: 0:42::1
+          aux_addresses:
+            mimisbrynn: 0:42::1
+  bridge:
+    driver: bridge
+  host:
+    name: host
+    external: true

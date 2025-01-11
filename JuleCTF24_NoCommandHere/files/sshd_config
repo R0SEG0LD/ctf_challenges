@@ -1,0 +1,11 @@
+#StrictModes no
+PrintLastLog no
+PermitRootLogin no
+PasswordAuthentication no
+KbdInteractiveAuthentication no
+AllowAgentForwarding no
+AllowTcpForwarding no
+X11Forwarding no
+AcceptEnv LANG LC_*
+Match User loki
+ChrootDirectory /home/loki

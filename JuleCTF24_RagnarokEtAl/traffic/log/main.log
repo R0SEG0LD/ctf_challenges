@@ -1,0 +1,362 @@
+[2024-12-22 21:53:16]  Using log directory:      /opt/inetsim/log/
+[2024-12-22 21:53:16]  Using data directory:     /opt/inetsim/data/
+[2024-12-22 21:53:16]  Using report directory:   /opt/inetsim/report/
+[2024-12-22 21:53:16]  Using configuration file: /opt/inetsim/conf/inetsim.conf
+[2024-12-22 21:53:16]  Parsing configuration file.
+[2024-12-22 21:53:16]  Configuration file parsed successfully.
+[2024-12-22 21:53:16]  === INetSim main process started (PID 1) ===
+[2024-12-22 21:53:16]  Session ID:     1
+[2024-12-22 21:53:16]  Listening on:   0.0.0.0
+[2024-12-22 21:53:16]  Real Date/Time: 2024-12-22 21:53:16
+[2024-12-22 21:53:16]  Fake Date/Time: 2024-12-22 21:53:16 (Delta: 0 seconds)
+[2024-12-22 21:53:16]   Forking services...
+[2024-12-22 21:53:16]    * irc_6667_tcp started (PID 44)
+[2024-12-22 21:53:16]    * dns_53_tcp_udp started (PID 41)
+[2024-12-22 21:53:16]    * syslog_514_udp started (PID 45)
+[2024-12-22 21:53:16]    * ntp_123_udp started (PID 43)
+[2024-12-22 21:53:16]    * ftp_21_tcp started (PID 42)
+[2024-12-22 21:53:16]    * http_80_tcp started (PID 40)
+[2024-12-22 21:53:16]    * https_443_tcp started (PID 46)
+[2024-12-22 21:53:19]   done.
+[2024-12-22 21:53:19]  Simulation running.
+[2024-12-22 21:54:13]    * http_80_tcp stopped (PID 40)
+[2024-12-22 21:54:13]    * dns_53_tcp_udp stopped (PID 41)
+[2024-12-22 21:54:13]    * ftp_21_tcp stopped (PID 42)
+[2024-12-22 21:54:13]    * ntp_123_udp stopped (PID 43)
+[2024-12-22 21:54:13]    * irc_6667_tcp stopped (PID 44)
+[2024-12-22 21:54:13]    * syslog_514_udp stopped (PID 45)
+[2024-12-22 21:54:13]    * https_443_tcp stopped (PID 46)
+[2024-12-22 21:54:13]  Simulation stopped.
+[2024-12-22 21:54:13]  === INetSim main process stopped (PID 1) ===
+[2024-12-22 21:54:13]  .
+[2024-12-22 21:54:16]  Using log directory:      /opt/inetsim/log/
+[2024-12-22 21:54:16]  Using data directory:     /opt/inetsim/data/
+[2024-12-22 21:54:16]  Using report directory:   /opt/inetsim/report/
+[2024-12-22 21:54:16]  Using configuration file: /opt/inetsim/conf/inetsim.conf
+[2024-12-22 21:54:16]  Parsing configuration file.
+[2024-12-22 21:54:16]  Configuration file parsed successfully.
+[2024-12-22 21:54:16]  === INetSim main process started (PID 1) ===
+[2024-12-22 21:54:16]  Session ID:     1
+[2024-12-22 21:54:16]  Listening on:   0.0.0.0
+[2024-12-22 21:54:16]  Real Date/Time: 2024-12-22 21:54:16
+[2024-12-22 21:54:16]  Fake Date/Time: 2024-12-22 21:54:16 (Delta: 0 seconds)
+[2024-12-22 21:54:16]   Forking services...
+[2024-12-22 21:54:16]    * irc_6667_tcp started (PID 47)
+[2024-12-22 21:54:16]    * dns_53_tcp_udp started (PID 44)
+[2024-12-22 21:54:16]    * syslog_514_udp started (PID 48)
+[2024-12-22 21:54:16]    * ntp_123_udp started (PID 46)
+[2024-12-22 21:54:16]    * ftp_21_tcp started (PID 45)
+[2024-12-22 21:54:16]    * https_443_tcp started (PID 49)
+[2024-12-22 21:54:16]    * http_80_tcp started (PID 43)
+[2024-12-22 21:54:19]   done.
+[2024-12-22 21:54:19]  Simulation running.
+[2024-12-22 22:04:06]    * http_80_tcp stopped (PID 43)
+[2024-12-22 22:04:06]    * dns_53_tcp_udp stopped (PID 44)
+[2024-12-22 22:04:06]    * ftp_21_tcp stopped (PID 45)
+[2024-12-22 22:04:06]    * ntp_123_udp stopped (PID 46)
+[2024-12-22 22:04:06]    * irc_6667_tcp stopped (PID 47)
+[2024-12-22 22:04:06]    * syslog_514_udp stopped (PID 48)
+[2024-12-22 22:04:06]    * https_443_tcp stopped (PID 49)
+[2024-12-22 22:04:06]  Simulation stopped.
+[2024-12-22 22:04:06]  === INetSim main process stopped (PID 1) ===
+[2024-12-22 22:04:06]  .
+[2024-12-22 22:04:11]  Using log directory:      /opt/inetsim/log/
+[2024-12-22 22:04:11]  Using data directory:     /opt/inetsim/data/
+[2024-12-22 22:04:11]  Using report directory:   /opt/inetsim/report/
+[2024-12-22 22:04:11]  Using configuration file: /opt/inetsim/conf/inetsim.conf
+[2024-12-22 22:04:11]  Parsing configuration file.
+[2024-12-22 22:04:11]  Configuration file parsed successfully.
+[2024-12-22 22:04:11]  === INetSim main process started (PID 1) ===
+[2024-12-22 22:04:11]  Session ID:     1
+[2024-12-22 22:04:11]  Listening on:   0.0.0.0
+[2024-12-22 22:04:11]  Real Date/Time: 2024-12-22 22:04:11
+[2024-12-22 22:04:11]  Fake Date/Time: 2024-12-22 22:04:11 (Delta: 0 seconds)
+[2024-12-22 22:04:11]   Forking services...
+[2024-12-22 22:04:11]    * irc_6667_tcp started (PID 44)
+[2024-12-22 22:04:11]    * dns_53_tcp_udp started (PID 41)
+[2024-12-22 22:04:11]    * ntp_123_udp started (PID 43)
+[2024-12-22 22:04:11]    * syslog_514_udp started (PID 45)
+[2024-12-22 22:04:11]    * ftp_21_tcp started (PID 42)
+[2024-12-22 22:04:11]    * https_443_tcp started (PID 46)
+[2024-12-22 22:04:11]    * http_80_tcp started (PID 40)
+[2024-12-22 22:04:14]   done.
+[2024-12-22 22:04:14]  Simulation running.
+[2024-12-22 22:08:19]    * http_80_tcp stopped (PID 40)
+[2024-12-22 22:08:20]    * dns_53_tcp_udp stopped (PID 41)
+[2024-12-22 22:08:20]    * ftp_21_tcp stopped (PID 42)
+[2024-12-22 22:08:20]    * ntp_123_udp stopped (PID 43)
+[2024-12-22 22:08:20]    * irc_6667_tcp stopped (PID 44)
+[2024-12-22 22:08:20]    * syslog_514_udp stopped (PID 45)
+[2024-12-22 22:08:20]    * https_443_tcp stopped (PID 46)
+[2024-12-22 22:08:20]  Simulation stopped.
+[2024-12-22 22:08:20]  === INetSim main process stopped (PID 1) ===
+[2024-12-22 22:08:20]  .
+[2024-12-22 22:08:22]  Using log directory:      /opt/inetsim/log/
+[2024-12-22 22:08:22]  Using data directory:     /opt/inetsim/data/
+[2024-12-22 22:08:22]  Using report directory:   /opt/inetsim/report/
+[2024-12-22 22:08:22]  Using configuration file: /opt/inetsim/conf/inetsim.conf
+[2024-12-22 22:08:22]  Parsing configuration file.
+[2024-12-22 22:08:22]  Configuration file parsed successfully.
+[2024-12-22 22:08:22]  === INetSim main process started (PID 1) ===
+[2024-12-22 22:08:22]  Session ID:     1
+[2024-12-22 22:08:22]  Listening on:   0.0.0.0
+[2024-12-22 22:08:22]  Real Date/Time: 2024-12-22 22:08:22
+[2024-12-22 22:08:22]  Fake Date/Time: 2024-12-22 22:08:22 (Delta: 0 seconds)
+[2024-12-22 22:08:22]   Forking services...
+[2024-12-22 22:08:22]    * irc_6667_tcp started (PID 44)
+[2024-12-22 22:08:22]    * dns_53_tcp_udp started (PID 41)
+[2024-12-22 22:08:22]    * ntp_123_udp started (PID 43)
+[2024-12-22 22:08:22]    * syslog_514_udp started (PID 45)
+[2024-12-22 22:08:22]    * ftp_21_tcp started (PID 42)
+[2024-12-22 22:08:22]    * https_443_tcp started (PID 46)
+[2024-12-22 22:08:22]    * http_80_tcp started (PID 40)
+[2024-12-22 22:08:25]   done.
+[2024-12-22 22:08:25]  Simulation running.
+[2024-12-22 22:21:37]    * http_80_tcp stopped (PID 40)
+[2024-12-22 22:21:37]    * dns_53_tcp_udp stopped (PID 41)
+[2024-12-22 22:21:37]    * ftp_21_tcp stopped (PID 42)
+[2024-12-22 22:21:37]    * ntp_123_udp stopped (PID 43)
+[2024-12-22 22:21:37]    * irc_6667_tcp stopped (PID 44)
+[2024-12-22 22:21:37]    * syslog_514_udp stopped (PID 45)
+[2024-12-22 22:21:37]    * https_443_tcp stopped (PID 46)
+[2024-12-22 22:21:37]  Simulation stopped.
+[2024-12-22 22:21:37]  === INetSim main process stopped (PID 1) ===
+[2024-12-22 22:21:37]  .
+[2024-12-22 22:21:38]  Using log directory:      /opt/inetsim/log/
+[2024-12-22 22:21:38]  Using data directory:     /opt/inetsim/data/
+[2024-12-22 22:21:38]  Using report directory:   /opt/inetsim/report/
+[2024-12-22 22:21:38]  Using configuration file: /opt/inetsim/conf/inetsim.conf
+[2024-12-22 22:21:38]  Parsing configuration file.
+[2024-12-22 22:21:38]  Configuration file parsed successfully.
+[2024-12-22 22:21:38]  === INetSim main process started (PID 1) ===
+[2024-12-22 22:21:38]  Session ID:     1
+[2024-12-22 22:21:38]  Listening on:   0.0.0.0
+[2024-12-22 22:21:38]  Real Date/Time: 2024-12-22 22:21:38
+[2024-12-22 22:21:38]  Fake Date/Time: 2024-12-22 22:21:38 (Delta: 0 seconds)
+[2024-12-22 22:21:38]   Forking services...
+[2024-12-22 22:21:38]    * dns_53_tcp_udp started (PID 41)
+[2024-12-22 22:21:38]    * irc_6667_tcp started (PID 44)
+[2024-12-22 22:21:38]    * ntp_123_udp started (PID 43)
+[2024-12-22 22:21:38]    * syslog_514_udp started (PID 45)
+[2024-12-22 22:21:38]    * ftp_21_tcp started (PID 42)
+[2024-12-22 22:21:38]    * http_80_tcp started (PID 40)
+[2024-12-22 22:21:38]    * https_443_tcp started (PID 46)
+[2024-12-22 22:21:41]   done.
+[2024-12-22 22:21:41]  Simulation running.
+[2024-12-22 22:22:50]    * http_80_tcp stopped (PID 40)
+[2024-12-22 22:22:50]    * dns_53_tcp_udp stopped (PID 41)
+[2024-12-22 22:22:50]    * ftp_21_tcp stopped (PID 42)
+[2024-12-22 22:22:50]    * ntp_123_udp stopped (PID 43)
+[2024-12-22 22:22:50]    * irc_6667_tcp stopped (PID 44)
+[2024-12-22 22:22:50]    * syslog_514_udp stopped (PID 45)
+[2024-12-22 22:22:50]    * https_443_tcp stopped (PID 46)
+[2024-12-22 22:22:50]  Simulation stopped.
+[2024-12-22 22:22:50]  === INetSim main process stopped (PID 1) ===
+[2024-12-22 22:22:50]  .
+[2024-12-22 22:22:51]  Using log directory:      /opt/inetsim/log/
+[2024-12-22 22:22:51]  Using data directory:     /opt/inetsim/data/
+[2024-12-22 22:22:51]  Using report directory:   /opt/inetsim/report/
+[2024-12-22 22:22:51]  Using configuration file: /opt/inetsim/conf/inetsim.conf
+[2024-12-22 22:22:51]  Parsing configuration file.
+[2024-12-22 22:22:51]  Configuration file parsed successfully.
+[2024-12-22 22:22:51]  === INetSim main process started (PID 1) ===
+[2024-12-22 22:22:51]  Session ID:     1
+[2024-12-22 22:22:51]  Listening on:   0.0.0.0
+[2024-12-22 22:22:51]  Real Date/Time: 2024-12-22 22:22:51
+[2024-12-22 22:22:51]  Fake Date/Time: 2024-12-22 22:22:51 (Delta: 0 seconds)
+[2024-12-22 22:22:51]   Forking services...
+[2024-12-22 22:22:51]    * irc_6667_tcp started (PID 44)
+[2024-12-22 22:22:51]    * dns_53_tcp_udp started (PID 41)
+[2024-12-22 22:22:51]    * syslog_514_udp started (PID 45)
+[2024-12-22 22:22:51]    * ntp_123_udp started (PID 43)
+[2024-12-22 22:22:51]    * ftp_21_tcp started (PID 42)
+[2024-12-22 22:22:51]    * http_80_tcp started (PID 40)
+[2024-12-22 22:22:51]    * https_443_tcp started (PID 46)
+[2024-12-24 15:00:01]   done.
+[2024-12-24 15:00:01]  Simulation running.
+[2024-12-22 22:24:01]    * http_80_tcp stopped (PID 40)
+[2024-12-22 22:24:01]    * dns_53_tcp_udp stopped (PID 41)
+[2024-12-22 22:24:01]    * ftp_21_tcp stopped (PID 42)
+[2024-12-22 22:24:01]    * ntp_123_udp stopped (PID 43)
+[2024-12-22 22:24:01]    * irc_6667_tcp stopped (PID 44)
+[2024-12-22 22:24:01]    * syslog_514_udp stopped (PID 45)
+[2024-12-22 22:24:01]    * https_443_tcp stopped (PID 46)
+[2024-12-22 22:24:01]  Simulation stopped.
+[2024-12-22 22:24:01]  === INetSim main process stopped (PID 1) ===
+[2024-12-22 22:24:01]  .
+[2024-12-22 22:24:02]  Using log directory:      /opt/inetsim/log/
+[2024-12-22 22:24:02]  Using data directory:     /opt/inetsim/data/
+[2024-12-22 22:24:02]  Using report directory:   /opt/inetsim/report/
+[2024-12-22 22:24:02]  Using configuration file: /opt/inetsim/conf/inetsim.conf
+[2024-12-22 22:24:02]  Parsing configuration file.
+[2024-12-22 22:24:02]  Configuration file parsed successfully.
+[2024-12-22 22:24:02]  === INetSim main process started (PID 1) ===
+[2024-12-22 22:24:02]  Session ID:     1
+[2024-12-22 22:24:02]  Listening on:   0.0.0.0
+[2024-12-22 22:24:02]  Real Date/Time: 2024-12-22 22:24:02
+[2024-12-22 22:24:02]  Fake Date/Time: 2024-12-22 22:24:02 (Delta: 0 seconds)
+[2024-12-22 22:24:02]   Forking services...
+[2024-12-22 22:24:02]    * dns_53_tcp_udp started (PID 41)
+[2024-12-22 22:24:02]    * irc_6667_tcp started (PID 44)
+[2024-12-22 22:24:02]    * ntp_123_udp started (PID 43)
+[2024-12-22 22:24:02]    * syslog_514_udp started (PID 45)
+[2024-12-22 22:24:02]    * ftp_21_tcp started (PID 42)
+[2024-12-22 22:24:02]    * http_80_tcp started (PID 40)
+[2024-12-22 22:24:02]    * https_443_tcp started (PID 46)
+[2024-12-24 15:00:01]   done.
+[2024-12-24 15:00:01]  Simulation running.
+[2024-12-24 15:00:51]    * http_80_tcp stopped (PID 40)
+[2024-12-24 15:00:51]    * dns_53_tcp_udp stopped (PID 41)
+[2024-12-24 15:00:51]    * ftp_21_tcp stopped (PID 42)
+[2024-12-24 15:00:51]    * ntp_123_udp stopped (PID 43)
+[2024-12-24 15:00:51]    * irc_6667_tcp stopped (PID 44)
+[2024-12-24 15:00:51]    * syslog_514_udp stopped (PID 45)
+[2024-12-24 15:00:51]    * https_443_tcp stopped (PID 46)
+[2024-12-24 15:00:51]  Simulation stopped.
+[2024-12-24 15:00:51]  === INetSim main process stopped (PID 1) ===
+[2024-12-24 15:00:51]  .
+[2024-12-24 15:00:53]  Using log directory:      /opt/inetsim/log/
+[2024-12-24 15:00:53]  Using data directory:     /opt/inetsim/data/
+[2024-12-24 15:00:53]  Using report directory:   /opt/inetsim/report/
+[2024-12-24 15:00:53]  Using configuration file: /opt/inetsim/conf/inetsim.conf
+[2024-12-24 15:00:53]  Parsing configuration file.
+[2024-12-24 15:00:53]  Configuration file parsed successfully.
+[2024-12-24 15:00:53]  === INetSim main process started (PID 1) ===
+[2024-12-24 15:00:53]  Session ID:     1
+[2024-12-24 15:00:53]  Listening on:   0.0.0.0
+[2024-12-24 15:00:53]  Real Date/Time: 2024-12-24 15:00:53
+[2024-12-24 15:00:53]  Fake Date/Time: 2024-12-24 15:00:53 (Delta: 0 seconds)
+[2024-12-24 15:00:53]   Forking services...
+[2024-12-24 15:00:53]    * dns_53_tcp_udp started (PID 40)
+[2024-12-24 15:00:53]    * irc_6667_tcp started (PID 43)
+[2024-12-24 15:00:53]    * ntp_123_udp started (PID 42)
+[2024-12-24 15:00:53]    * syslog_514_udp started (PID 44)
+[2024-12-24 15:00:53]    * ftp_21_tcp started (PID 41)
+[2024-12-24 15:00:53]    * http_80_tcp started (PID 39)
+[2024-12-24 15:00:53]    * https_443_tcp started (PID 45)
+[2024-12-24 15:00:02]   done.
+[2024-12-24 15:00:02]  Simulation running.
+[2024-12-22 22:28:44]    * http_80_tcp stopped (PID 39)
+[2024-12-22 22:28:44]    * dns_53_tcp_udp stopped (PID 40)
+[2024-12-22 22:28:44]    * ftp_21_tcp stopped (PID 41)
+[2024-12-22 22:28:44]    * ntp_123_udp stopped (PID 42)
+[2024-12-22 22:28:44]    * irc_6667_tcp stopped (PID 43)
+[2024-12-22 22:28:44]    * syslog_514_udp stopped (PID 44)
+[2024-12-22 22:28:44]    * https_443_tcp stopped (PID 45)
+[2024-12-22 22:28:44]  Simulation stopped.
+[2024-12-22 22:28:44]  === INetSim main process stopped (PID 1) ===
+[2024-12-22 22:28:44]  .
+[2024-12-22 22:28:45]  Using log directory:      /opt/inetsim/log/
+[2024-12-22 22:28:45]  Using data directory:     /opt/inetsim/data/
+[2024-12-22 22:28:45]  Using report directory:   /opt/inetsim/report/
+[2024-12-22 22:28:45]  Using configuration file: /opt/inetsim/conf/inetsim.conf
+[2024-12-22 22:28:45]  Parsing configuration file.
+[2024-12-22 22:28:45]  Configuration file parsed successfully.
+[2024-12-22 22:28:45]  === INetSim main process started (PID 1) ===
+[2024-12-22 22:28:45]  Session ID:     1
+[2024-12-22 22:28:45]  Listening on:   0.0.0.0
+[2024-12-22 22:28:45]  Real Date/Time: 2024-12-22 22:28:45
+[2024-12-22 22:28:45]  Fake Date/Time: 2024-12-22 22:28:45 (Delta: 0 seconds)
+[2024-12-22 22:28:45]   Forking services...
+[2024-12-22 22:28:45]    * irc_6667_tcp started (PID 44)
+[2024-12-22 22:28:45]    * dns_53_tcp_udp started (PID 41)
+[2024-12-22 22:28:45]    * ntp_123_udp started (PID 43)
+[2024-12-22 22:28:45]    * syslog_514_udp started (PID 45)
+[2024-12-22 22:28:45]    * ftp_21_tcp started (PID 42)
+[2024-12-22 22:28:46]    * http_80_tcp started (PID 40)
+[2024-12-22 22:28:46]    * https_443_tcp started (PID 46)
+[2024-12-22 22:28:48]   done.
+[2024-12-22 22:28:48]  Simulation running.
+[2024-12-22 23:11:15]    * http_80_tcp stopped (PID 40)
+[2024-12-22 23:11:15]    * dns_53_tcp_udp stopped (PID 41)
+[2024-12-22 23:11:15]    * ftp_21_tcp stopped (PID 42)
+[2024-12-22 23:11:15]    * ntp_123_udp stopped (PID 43)
+[2024-12-22 23:11:15]    * irc_6667_tcp stopped (PID 44)
+[2024-12-22 23:11:15]    * syslog_514_udp stopped (PID 45)
+[2024-12-22 23:11:15]    * https_443_tcp stopped (PID 46)
+[2024-12-22 23:11:15]  Simulation stopped.
+[2024-12-22 23:11:15]  === INetSim main process stopped (PID 1) ===
+[2024-12-22 23:11:15]  .
+[2024-12-22 23:11:16]  Using log directory:      /opt/inetsim/log/
+[2024-12-22 23:11:16]  Using data directory:     /opt/inetsim/data/
+[2024-12-22 23:11:16]  Using report directory:   /opt/inetsim/report/
+[2024-12-22 23:11:16]  Using configuration file: /opt/inetsim/conf/inetsim.conf
+[2024-12-22 23:11:16]  Parsing configuration file.
+[2024-12-22 23:11:17]  Configuration file parsed successfully.
+[2024-12-22 23:11:17]  === INetSim main process started (PID 1) ===
+[2024-12-22 23:11:17]  Session ID:     1
+[2024-12-22 23:11:17]  Listening on:   0.0.0.0
+[2024-12-22 23:11:17]  Real Date/Time: 2024-12-22 23:11:17
+[2024-12-22 23:11:17]  Fake Date/Time: 2024-12-22 23:11:17 (Delta: 0 seconds)
+[2024-12-22 23:11:17]   Forking services...
+[2024-12-22 23:11:17]    * irc_6667_tcp started (PID 44)
+[2024-12-22 23:11:17]    * dns_53_tcp_udp started (PID 41)
+[2024-12-22 23:11:17]    * ntp_123_udp started (PID 43)
+[2024-12-22 23:11:17]    * syslog_514_udp started (PID 45)
+[2024-12-22 23:11:17]    * http_80_tcp started (PID 40)
+[2024-12-22 23:11:17]    * ftp_21_tcp started (PID 42)
+[2024-12-22 23:11:17]    * https_443_tcp started (PID 46)
+[2024-12-22 23:11:20]   done.
+[2024-12-22 23:11:20]  Simulation running.
+[2024-12-22 23:18:26]    * http_80_tcp stopped (PID 40)
+[2024-12-22 23:18:26]    * dns_53_tcp_udp stopped (PID 41)
+[2024-12-22 23:18:26]    * ftp_21_tcp stopped (PID 42)
+[2024-12-22 23:18:26]    * ntp_123_udp stopped (PID 43)
+[2024-12-22 23:18:26]    * irc_6667_tcp stopped (PID 44)
+[2024-12-22 23:18:26]    * syslog_514_udp stopped (PID 45)
+[2024-12-22 23:18:26]    * https_443_tcp stopped (PID 46)
+[2024-12-22 23:18:26]  Simulation stopped.
+[2024-12-22 23:18:26]  === INetSim main process stopped (PID 1) ===
+[2024-12-22 23:18:26]  .
+[2024-12-22 23:18:27]  Using log directory:      /opt/inetsim/log/
+[2024-12-22 23:18:27]  Using data directory:     /opt/inetsim/data/
+[2024-12-22 23:18:27]  Using report directory:   /opt/inetsim/report/
+[2024-12-22 23:18:27]  Using configuration file: /opt/inetsim/conf/inetsim.conf
+[2024-12-22 23:18:27]  Parsing configuration file.
+[2024-12-22 23:18:27]  Configuration file parsed successfully.
+[2024-12-22 23:18:27]  === INetSim main process started (PID 1) ===
+[2024-12-22 23:18:27]  Session ID:     1
+[2024-12-22 23:18:27]  Listening on:   0.0.0.0
+[2024-12-22 23:18:27]  Real Date/Time: 2024-12-22 23:18:27
+[2024-12-22 23:18:27]  Fake Date/Time: 2024-12-22 23:18:27 (Delta: 0 seconds)
+[2024-12-22 23:18:27]   Forking services...
+[2024-12-22 23:18:27]    * irc_6667_tcp started (PID 44)
+[2024-12-22 23:18:27]    * dns_53_tcp_udp started (PID 41)
+[2024-12-22 23:18:27]    * ntp_123_udp started (PID 43)
+[2024-12-22 23:18:27]    * syslog_514_udp started (PID 45)
+[2024-12-22 23:18:27]    * ftp_21_tcp started (PID 42)
+[2024-12-22 23:18:27]    * http_80_tcp started (PID 40)
+[2024-12-22 23:18:27]    * https_443_tcp started (PID 46)
+[2024-12-22 23:18:30]   done.
+[2024-12-22 23:18:30]  Simulation running.
+[2024-12-22 23:26:59]    * http_80_tcp stopped (PID 40)
+[2024-12-22 23:26:59]    * dns_53_tcp_udp stopped (PID 41)
+[2024-12-22 23:26:59]    * ftp_21_tcp stopped (PID 42)
+[2024-12-22 23:26:59]    * ntp_123_udp stopped (PID 43)
+[2024-12-22 23:26:59]    * irc_6667_tcp stopped (PID 44)
+[2024-12-22 23:26:59]    * syslog_514_udp stopped (PID 45)
+[2024-12-22 23:26:59]    * https_443_tcp stopped (PID 46)
+[2024-12-22 23:26:59]  Simulation stopped.
+[2024-12-22 23:26:59]  === INetSim main process stopped (PID 1) ===
+[2024-12-22 23:26:59]  .
+[2024-12-22 23:27:01]  Using log directory:      /opt/inetsim/log/
+[2024-12-22 23:27:01]  Using data directory:     /opt/inetsim/data/
+[2024-12-22 23:27:01]  Using report directory:   /opt/inetsim/report/
+[2024-12-22 23:27:01]  Using configuration file: /opt/inetsim/conf/inetsim.conf
+[2024-12-22 23:27:01]  Parsing configuration file.
+[2024-12-22 23:27:01]  Configuration file parsed successfully.
+[2024-12-22 23:27:01]  === INetSim main process started (PID 1) ===
+[2024-12-22 23:27:01]  Session ID:     1
+[2024-12-22 23:27:01]  Listening on:   0.0.0.0
+[2024-12-22 23:27:01]  Real Date/Time: 2024-12-22 23:27:01
+[2024-12-22 23:27:01]  Fake Date/Time: 2024-12-22 23:27:01 (Delta: 0 seconds)
+[2024-12-22 23:27:01]   Forking services...
+[2024-12-22 23:27:01]    * irc_6667_tcp started (PID 43)
+[2024-12-22 23:27:01]    * dns_53_tcp_udp started (PID 40)
+[2024-12-22 23:27:01]    * ntp_123_udp started (PID 42)
+[2024-12-22 23:27:01]    * syslog_514_udp started (PID 44)
+[2024-12-22 23:27:01]    * ftp_21_tcp started (PID 41)
+[2024-12-22 23:27:01]    * http_80_tcp started (PID 39)
+[2024-12-22 23:27:01]    * https_443_tcp started (PID 45)
+[2024-12-22 23:27:04]   done.
+[2024-12-22 23:27:04]  Simulation running.
